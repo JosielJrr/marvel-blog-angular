@@ -24,7 +24,7 @@ git clone https://github.com/JosielJrr/marvel-blog-angular.git
 2. Instale as dependências
 
 ```bash
-cd marvel-blog
+cd marvel-blog-angular
 npm install
 ```
 
